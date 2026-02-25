@@ -1,5 +1,3 @@
-Of course. Here is the fully formatted README.md file based on the content you provided.
-
 # 🤖 AI Wordle Solver
 
 [](https://www.python.org/)
