@@ -37,7 +37,7 @@ With multiple heuristics and solver strategies, this project provides insights i
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-wordle.git
+git clone https://github.com/DishankVyas/AI-Wordle-Solver
 cd ai-wordle
 
 # Install dependencies
